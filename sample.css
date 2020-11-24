@@ -1,0 +1,20 @@
+.big{
+ width:40%;
+ height: 100px;
+ font-size: 50px;
+ text-align: center;
+ 
+}
+form{
+margin: 0 auto; 
+width:50%;
+}
+
+.submit{
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+div{
+font-size: 50px;
+}
