@@ -333,5 +333,8 @@
       .instagram-box:nth-child(6) {
         background-image: url(img/road.jpg);
       }
+      .kosuke{
+       padding-botttom:20px;
+      }
       
     }
